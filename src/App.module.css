@@ -1,0 +1,13 @@
+*{
+  background-color: rgb(241, 240, 177);
+}
+
+h1 {
+  text-align: center;
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.app {
+  margin-top: 70px;
+}
